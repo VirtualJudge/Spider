@@ -11,7 +11,7 @@ supports = [
     'POJ',
     'WUST',
     'ZOJ',
-    'Codeforces'
+    'Codeforces',
 ]
 
 

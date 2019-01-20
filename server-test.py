@@ -17,7 +17,6 @@ def submit():
         remote_oj = request.form['remote_oj']
         remote_id = request.form['remote_id']
         language = request.form['language']
-
         ans = False
         tries = 3
         account = Account('robot4test', 'robot4test')
