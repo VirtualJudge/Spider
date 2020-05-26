@@ -1,9 +1,0 @@
-beautifulsoup4
-lxml
-wheel
-requests
-coverage
-Flask
-requests[socks]
-flake8
-deprecated
